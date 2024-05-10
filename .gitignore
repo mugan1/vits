@@ -8,3 +8,6 @@ monotonic_align/core.c
 infer/*
 datasets/*
 checkpoints/*
+models/*
+*.onnx
+*.wav
